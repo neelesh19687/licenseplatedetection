@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>N26.jpg</filename>
+	<path>E:\licenseplatedetection\images\N26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>521</width>
+		<height>347</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plates</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>214</ymin>
+			<xmax>325</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>
